@@ -1,7 +1,11 @@
 # checkFiler
 Let's say you have a file without any extension and you want to open it. What would you do? 
 Well, the easy way would be to use this _python script_. Its as easy as running the python script and typing in the file name and selecting the relevant option.
-<br /> <br /> <br />
+<br /> 
+
+![Logo Designs (1)](https://user-images.githubusercontent.com/27415791/155706932-61db2aaf-d7f5-4f16-a134-21d4d8cb6953.jpg)
+
+<br /> <br />
 ## What are magic numbers?
 Magic numbers are the first few bytes of a file which are unique to a particular file type. These unique bits are referred to as magic numbers,  also sometimes referred to as a  file signature.
 <br /> <br /> <br />
